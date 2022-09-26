@@ -1,0 +1,19 @@
+{
+    "name": "express-quiz-app",
+    "version": "1.0.0",
+    "description": "a demo express app",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "npx nodemon server.js"
+    },
+    "author": "Jon",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
