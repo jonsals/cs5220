@@ -1,0 +1,6 @@
+Jerome Pineda
+Hector Sanchez 
+Jonathan Salcedo Manriquez
+
+mySQL 
+rxjs
